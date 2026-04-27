@@ -1,0 +1,17 @@
+# Ambiente Virtual
+.venv/
+venv/
+env/
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Flet / Flutter temporários
+.flet/
