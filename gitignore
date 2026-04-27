@@ -1,9 +1,9 @@
 # Ambiente Virtual
-.venv/
-venv/
-env/
-dist/
-build/
+*.venv/
+*venv/
+*env/
+*dist/
+*build/
 
 # VS Code
 .vscode/
