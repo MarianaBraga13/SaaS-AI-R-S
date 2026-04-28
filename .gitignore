@@ -4,10 +4,13 @@ venv/
 env/
 dist/
 build/
-.env/
 
 # VS Code
 .vscode/
+
+# Arquivos sensíveis
+.env
+*.env
 
 # Python cache
 __pycache__/
