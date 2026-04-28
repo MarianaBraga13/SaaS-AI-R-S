@@ -9,8 +9,8 @@ build/
 .vscode/
 
 # Arquivos sensíveis
-.env
-*.env
+.env/
+*.env/
 
 # Python cache
 __pycache__/
