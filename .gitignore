@@ -4,6 +4,7 @@ venv/
 env/
 dist/
 build/
+.env/
 
 # VS Code
 .vscode/
